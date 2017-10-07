@@ -492,34 +492,34 @@
               <FilePath>.\src\Uart_helper.h</FilePath>
             </File>
             <File>
+              <FileName>ADC_PWM_helper.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\ADC_PWM_helper.c</FilePath>
+            </File>
+            <File>
               <FileName>Gpio_helper.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Gpio_helper.c</FilePath>
-            </File>
-            <File>
-              <FileName>Gpio_helper.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Gpio_helper.h</FilePath>
-            </File>
-            <File>
-              <FileName>Systick_helper.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Systick_helper.h</FilePath>
+              <FilePath>.\src\Gpio_helper.c</FilePath>
             </File>
             <File>
               <FileName>Systick_helper.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Systick_helper.c</FilePath>
+              <FilePath>.\src\Systick_helper.c</FilePath>
             </File>
             <File>
               <FileName>ADC_PWM_helper.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\ADC_PWM_helper.h</FilePath>
+              <FilePath>.\src\ADC_PWM_helper.h</FilePath>
             </File>
             <File>
-              <FileName>ADC_PWM_helper.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\ADC_PWM_helper.c</FilePath>
+              <FileName>Gpio_helper.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\Gpio_helper.h</FilePath>
+            </File>
+            <File>
+              <FileName>Systick_helper.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\Systick_helper.h</FilePath>
             </File>
           </Files>
         </Group>
